@@ -20,3 +20,8 @@ projects. Stay tuned!
     ├── README.md
 
 ## 📆 Updates
+
+**v0.1** - Initial version of the portfolio.
+
+**v0.2** - Added a new project to the portfolio. Updated the README file with more details about the project and technologies used.
+
