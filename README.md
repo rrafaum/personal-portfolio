@@ -7,9 +7,11 @@ projects. Stay tuned!
 
 ## 🚀 Technologies and Project Structure
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="25" alt="css3 logo"  />
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="25" alt="css3 logo"  />
+</div>
 
     📁personal-portfolio/
     ├── .gitattributes
