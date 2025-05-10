@@ -1,11 +1,11 @@
-# 💼 Personal Portfolio
+# 💼 Portfólio Pessoal
 
-This is my personal portfolio, showcasing my projects and skills. The portfolio is built using Front-End technologies.
+Este é meu portfólio pessoal, apresentando meus projetos e habilidades. O portfólio foi desenvolvido com tecnologias Front-End, como HTML e CSS (inicialmente).
 
-It reflects my current learning stage in web development and will evolve over time as I improve my skills and build more
-projects. Stay tuned!
+Ele reflete meu estágio atual de aprendizado em desenvolvimento web e evoluirá com o tempo, à medida que eu aprimoro minhas habilidades e construo mais
+projetos. Fique ligado!
 
-## 🚀 Technologies and Project Structure
+## 🚀 Tecnologias e Estrutura do Projeto
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
@@ -23,10 +23,10 @@ projects. Stay tuned!
 
 ## 📆 Updates
 
-**v0.1** - Initial version of the portfolio.
+**v0.1** - Versão inicial do portfólio.
 
-**v0.2** - Added a new project to the portfolio. Updated the README file with more details about the project and technologies used.
+**v0.2** - Criado a estrutura do portfólio e adicionado o conteúdo inicial.
 
-**v0.3** - Improved the layout and design of the portfolio.
+**v0.3** - Adicionado e aprimorado o layout e o design do portfólio.
 
-**v1.0** - Frozen version of the portfolio.
+**v1.0** - Versão estável do portfólio, desenvolvimento congelado.
