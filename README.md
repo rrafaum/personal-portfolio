@@ -1,2 +1,20 @@
-# personal-portfolio
-This is my first personal portfolio project, built from scratch using only HTML and CSS, as part of a DevOps assignment. It reflects my current learning stage in web development and will evolve over time as I improve my skills and build more projects. Stay tuned!
+# 💼 Personal Portfolio
+
+This is my personal portfolio, showcasing my projects and skills. The portfolio is built using Front-End technologies.
+
+It reflects my current learning stage in web development and will evolve over time as I improve my skills and build more
+projects. Stay tuned!
+
+## 🚀 Technologies and Project Structure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="25" alt="html5 logo"  />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="25" alt="css3 logo"  />
+
+    📁personal-portfolio/
+    ├── .gitattributes
+    ├── index.html
+    ├── LICENSE
+    ├── README.md
+
+## 📆 Updates
