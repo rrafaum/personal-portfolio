@@ -14,10 +14,12 @@ projects. Stay tuned!
 </div>
 
     📁personal-portfolio/
+    ├── css/
+    │   └── styles.css
     ├── .gitattributes
     ├── index.html
     ├── LICENSE
-    ├── README.md
+    └── README.md
 
 ## 📆 Updates
 
@@ -25,3 +27,6 @@ projects. Stay tuned!
 
 **v0.2** - Added a new project to the portfolio. Updated the README file with more details about the project and technologies used.
 
+**v0.3** - Improved the layout and design of the portfolio.
+
+**v1.0** - Frozen version of the portfolio.

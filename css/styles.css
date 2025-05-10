@@ -19,11 +19,13 @@ header {
     background-color: #222;
     color: #fff;
     text-align: center;
-    padding: 1rem 0rem 2rem 0rem;
+    padding-bottom: 2rem;
 }
 
-header h2 {
-    margin: 0rem 0rem 2rem 0rem;
+header p {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 nav a {
@@ -41,4 +43,20 @@ nav a:hover {
     border: #fff;
     border-radius: 1rem;
     color: #222;
+}
+
+main {
+   flex: 1;
+   padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #222;
+    color: #fff;
 }
